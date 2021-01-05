@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name":"Christian Miller",
+    "occupation":"Software Engineer",
+    "description":" I graduated from Irvine Valley College with my Associates degree in Computer Science and am now pursuing my Bachelors in Computer Science at San José State University. I am currently seeking internships or research opportunities to apply my experience in software development. ",
+    "image":"profilepic.jpg",
+    "bio":"An adventurer at heart with a passion for coding, I moved to California from the Northern Mariana Islands to pursue a higher education. As a self-supporting student, it hasn't been easy to balance a job and school but through my motivation and zeal for computer science I've been able to excel academically. My coursework thus far has armed me with the tools to be able to approach any coding problem.  ",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "670miller@gmail.com",
+    "phone": "949-527-2071",
+    "address":{
+      "city":"Bay Area",
+      "state":"California",
+      "zip": "95116"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://docs.google.com/document/d/1RATXJDgAo-5EpwKJyEwnhAyiqyNfshTHiZPcd9_lP_Q/edit?usp=sharing",
+    "transcriptdownload":"https://drive.google.com/file/d/1tGHsSODbj8E4CrQeUDmtiawY26Y7bkaM/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/christian-r-miller/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/122Miller",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"San Jose State University",
+        "degree":"Bachelor of Computer Science",
+        "graduated":"December 2021",
+        "gpa": "GPA: 3.85/4.0",
+        "description":"Here at SJSU I am gaining exposure to more complex theories and algorithms that contribute to a much more thorough education. It is here that I discovered my passion for full-stack development. I learned Spring Boot during a semester long project and am now building this website to learn React."
+      },
+      {
+        "school":"Irvine Valley College",
+        "degree":"Associate of Computer Science",
+        "graduated":"June 2019",
+        "gpa": "GPA: 3.90/4.0",
+        "description":"I attended IVC for the first two years of my college career where I learned fundamental Computer Science concepts in C++ through completion of homework assignments and projects. I graduated Magna Cum Laude. "
+      }
+    ],
+    "work":[
+      {
+        "company":"San Jose State University",
+        "title":"Lab Instructor",
+        "years":"August 2020 - Present",
+        "description":"Supervision and evaluation of student performance in labs, and working with faulty to coordinate labs with lectures. Teach concepts covering knowledge of OOP, Data Structures and Alogirthms, Testing, and Inheritance using Java."
+      },
+      {
+        "company":"San Jose State University",
+        "title":"Grader",
+        "years":"August 2020 - Present",
+        "description":"Grade student submissions in accordance with instructor rubric. Evaluate code for good coding practice and communicate student problems and concerns to the instructor. Accurately maintain the course gradebook."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"C++",
+        "level":"75%"
+      },
+      {
+        "name":"Spring Boot",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"65%"
+      },
+      {
+        "name":"HTML5",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
