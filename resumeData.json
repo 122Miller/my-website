@@ -1,6 +1,5 @@
 {
   "main": {
-    "imagebaseurl":"https://122Miller.github.io/",
     "name":"Christian Miller",
     "occupation":"Software Engineer",
     "description":" I graduated from Irvine Valley College with my Associates degree in Computer Science and am now pursuing my Bachelors in Computer Science at San José State University. I am currently seeking internships or research opportunities to apply my experience in software development. ",
@@ -14,7 +13,6 @@
       "state":"California",
       "zip": "95116"
     },
-    "website": "http://www.timbakerdev.com",
     "resumedownload":"https://docs.google.com/document/d/1RATXJDgAo-5EpwKJyEwnhAyiqyNfshTHiZPcd9_lP_Q/edit?usp=sharing",
     "transcriptdownload":"https://drive.google.com/file/d/1tGHsSODbj8E4CrQeUDmtiawY26Y7bkaM/view?usp=sharing",
     "social":[
